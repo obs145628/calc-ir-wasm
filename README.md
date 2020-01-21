@@ -10,6 +10,9 @@ This was tested with the following:
 - node v12.9.1
 - [emscripten](https://emscripten.org/) v1.39.6
 - [binaryen](https://github.com/WebAssembly/binaryen) v90_36
+- [wabt](https://github.com/WebAssembly/wabt) v1.0.13-2
+- crate [bynaryen](https://github.com/pepyakin/binaryen-rs) v0.6.0
+- crate [wasmer-runtime](https://github.com/wasmerio/wasmer-rust-example) v0.13.1
 
 ## cl-wasm
 

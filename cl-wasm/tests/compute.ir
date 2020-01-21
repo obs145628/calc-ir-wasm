@@ -1,0 +1,13 @@
+movi 0 10
+movi 1 5
+movi 2 23
+movi 3 67
+movi 4 13
+
+mul 5 1 2
+div 5 5 3
+mod 5 5 0
+add 5 0 5
+sub 5 5 4
+movr 0 5
+
